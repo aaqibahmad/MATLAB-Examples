@@ -1,0 +1,11 @@
+img = imread('cameraman.tif');
+%edge(img);
+imsharpen(img);
+%imgd = im2double(img);
+%imgd = imnoise(imgd,'salt & pepper',0.02);
+%f = ones(3,3)/9;
+%img1 = filter2(f,imgd);
+%subplot(1, 2, 1);
+imshow(img);
+%subplot(1, 2, 2);
+%imshow(img1);
