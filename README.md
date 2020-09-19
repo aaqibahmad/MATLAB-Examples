@@ -7,6 +7,5 @@ Cleve Moler, a professor of Computer Science at the University of New Mexico, cr
 MATLAB is used by engineers and scientists in many fields such as image and signal processing, communications, control systems for industry, smart grid design, robotics as well as computational finance.
 
 ### This repository consists of examples related to beginner to medium level concepts in Image Processing using MATLAB. 
-> Thank You
 
 > Aaqib Ahmad
